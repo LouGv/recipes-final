@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "Angular.ng-template",
+    "Atishay-Jain.All-Autocomplete",
+    "CoenraadS.bracket-pair-colorizer",
+    "formulahendry.auto-rename-tag",
+    "HookyQR.beautify",
+    "ionutvmi.path-autocomplete",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "PKief.material-icon-theme"
+  ]
+}
