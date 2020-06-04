@@ -41,12 +41,11 @@
       }
     ]
   },
-  "editor.wordWrap": "on",
+  "editor.wordWrap": "bounded",
   "editor.formatOnSave": true,
   "explorer.openEditors.visible": 0,
   "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
-  "html.format.wrapLineLength": 100,
   "html.format.wrapAttributes": "auto",
   "html.format.endWithNewline": true,
   "html.format.maxPreserveNewLines": 1,
